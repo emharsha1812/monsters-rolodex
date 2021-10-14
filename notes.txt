@@ -1,0 +1,4 @@
+setState is actually a asynchronour function call
+
+
+synchronous is something we can expect to happen almost instantaneously
